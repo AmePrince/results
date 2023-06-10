@@ -24,8 +24,10 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
+![127 0 0 1_3000_index html(iPad Air) (1)](https://github.com/AmePrince/results/assets/131150219/d024da9e-f0d6-44fc-b44d-11938448e76f)
 
-![](./screenshot.jpg)
+![127 0 0 1_3000_index html(iPhone 12 Pro)](https://github.com/AmePrince/results/assets/131150219/07d15f60-f087-43e2-9d14-f1855a0e4e79)
+
 
 ### Links
 
