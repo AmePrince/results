@@ -25,8 +25,7 @@ Users should be able to:
 
 ### Screenshot
 ![127 0 0 1_3000_index html(iPad Air) (1)](https://github.com/AmePrince/results/assets/131150219/d024da9e-f0d6-44fc-b44d-11938448e76f)
-
-![127 0 0 1_3000_index html(iPhone 12 Pro)](https://github.com/AmePrince/results/assets/131150219/07d15f60-f087-43e2-9d14-f1855a0e4e79)
+<img src="https://github.com/AmePrince/results/assets/131150219/07d15f60-f087-43e2-9d14-f1855a0e4e79" width="200" height="400" />
 
 
 ### Links
